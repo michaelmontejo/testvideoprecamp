@@ -1,10 +1,10 @@
-#PRIMER VIDEO SERVICIOS
+# PRIMER VIDEO SERVICIOS
 
 Proyecto inicial para aprender como subir archivos html, cssy read **primera vez**
 
-##Tecnologias
+## Tecnologias
 
 * HTML
 * CSS
 
-_ by mickeimon 🐱‍🚀_
+_by mickeimon 🐱‍🚀_
