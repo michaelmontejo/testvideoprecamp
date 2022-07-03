@@ -1,0 +1,15 @@
+h3 {
+   color: #3342FF;
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: #F13870 ;
+
+}
+
+li {
+     list-style-type: lower-latin;
+
+}

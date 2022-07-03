@@ -1,0 +1,99 @@
+
+.titulo1 {
+   color: #3342FF;
+   text-align: start;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   letter-spacing: 4px;
+   width: 130px;
+   margin-left: 50%;
+
+   border: double #cc3a12 5px
+}
+
+.pag1 {
+    background-color: darkseagreen;
+
+}
+
+li {
+     list-style-type: lower-latin;
+
+}
+
+p{
+   border-top-style: dashed;
+   border-right-style: double;
+   border-bottom-style: groove;
+   border-left-style: double;
+
+   border-color: #cc3a12;
+
+   border-width: 4px;
+   border-radius: 10px;
+   width: 180px;
+
+}
+
+.pag2 {
+   background-color: #0fbac6 ;
+
+}
+
+.titulo2 {
+   color: #cc3a12;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-shadow: 2px 2px #ddff33;
+}
+
+.boton1 {
+
+   position: absolute;
+   left: 1000px;
+   
+
+}
+
+
+.boton1:hover {
+
+          background-color: aqua;
+          color: azure;
+          font-size: 20px;
+          border-style: double;
+          position: absolute;
+          
+}
+li {
+     list-style-type: lower-latin;
+
+}
+
+.comidas {
+
+   border-style: double;
+   width: 300px;
+   border-color: #201515;
+   margin-left: 1%;
+
+}
+
+
+.comidasrapidas {
+
+   border-style: double;
+   width: 300px;
+   border-color: #a92920;
+   margin-left: 10%;
+
+}
+
+.whatsapp {
+
+   border-style:none;
+   object-position: right;
+   position: fixed;
+   top: 500px;
+   left: 1850px;
+   width: 500px;
+}
